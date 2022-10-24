@@ -2,7 +2,7 @@
 
 If you prefer C checkout the [C boilerplate](https://github.com/ChillerDragon/boilerplate-ruby-c-extension).
 
-You need ``make``, ``ruby`` and a C compiler installed.
+You need ``make``, ``ruby`` and a C++ compiler installed.
 
     gem install rice
     ruby extconf.rb
